@@ -5,9 +5,9 @@ Android Automotive templates host.
 
 The renderer source is maintained in
 [android_packages_apps_Car_TemplatesHost](https://github.com/radiosound-com/android_packages_apps_Car_TemplatesHost),
-currently packaged from commit `bf7ac0bda5e4ebc49e9113e9bc13e4bc5a632814` on
+currently packaged from commit `d4f8814` on
 the `android-16.0` branch. The bundled APK SHA-256 is
-`2f6ac02558aafbfb412cb8a34f330f1504b6a41a5827910a6bd49645f19678bd`.
+`c31b15aaa805ea854c90b64e77f4eec1f2eff1c0fe1cf0617715259d83d5978b`.
 The AOSP product fragment is
 `caramel_vanilla_templates_host.mk`; it installs the host as a privileged,
 product-specific app and publishes the standard templates-host capability.
