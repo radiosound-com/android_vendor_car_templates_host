@@ -5,7 +5,7 @@ Android Automotive templates host.
 
 The renderer source is maintained in
 [android_packages_apps_Car_TemplatesHost](https://github.com/radiosound-com/android_packages_apps_Car_TemplatesHost),
-currently packaged from commit `d4f8814` on
+currently packaged from commit `d4f8814b0b8f7de87f5481d2b14edbfc29b4d54c` on
 the `android-16.0` branch. The bundled APK SHA-256 is
 `c31b15aaa805ea854c90b64e77f4eec1f2eff1c0fe1cf0617715259d83d5978b`.
 The AOSP product fragment is
